@@ -1,7 +1,7 @@
 import { Router } from 'express'
 
 /** controller */
-import SearchProduct from '../controllers/product'
+import SearchProduct from '../controllers/product-controller.js'
 
 const appRouter = Router()
 

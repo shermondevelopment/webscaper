@@ -8,7 +8,7 @@ import express, { json } from 'express'
 import cors from 'cors'
 
 /** router */
-import appRouter from './routers/product'
+import appRouter from './routers/product-router.js'
 
 /** initializing server */
 const app = express()
