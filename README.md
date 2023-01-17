@@ -1,7 +1,7 @@
 # <p align = "center"> IN8 WEBScraper </p>
 
 <p align="center">
-  <img src="https://ng.cash/_nuxt/img/logo-ngcash-branco.88c5860.svg" width="150"/>
+  <img src="https://www.in8.com.br/wp-content/themes/IN8/assets/images/logo.svg" width="150"/>
 </p>
 
 ## :computer: Technologies
@@ -12,6 +12,12 @@
 - CommitLint
 
 ---
+
+## Description
+
+<p>
+The purpose of the application is to search for all lenovo brand products and ask for the lowest at the highest price of the item.
+</p>
 
 ## :rocket: Routers
 
