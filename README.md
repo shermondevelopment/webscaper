@@ -21,14 +21,6 @@ The purpose of the application is to search for all lenovo brand products and as
 
 ## :rocket: Routers
 
-```yml
-GET /products
-    - route to list products
-    - headers: {}
-```
-
----
-
 ## 🏁 running the application with docker
 
 ```
@@ -50,3 +42,11 @@ YARN start
 ```
 app running by default on port 5000 🚀🚀🚀🚀🚀
 ```
+
+```yml
+GET /products
+    - route to list products
+    - headers: {}
+```
+
+---
