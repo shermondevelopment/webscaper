@@ -1,7 +1,8 @@
+import scraper from '../utils/webscraper.js'
+
 const SearchProduct = async (req, res) => {
-  // eslint-disable-next-line no-unused-vars
-  const { titleProduct } = req.query
-  res.sendStatus(200)
+  const productsScraper = await scraper()
+  res.status(200).json(productsScraper)
 }
 
 export default SearchProduct
