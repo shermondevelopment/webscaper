@@ -19,8 +19,6 @@
 The purpose of the application is to search for all lenovo brand products and ask for the lowest at the highest price of the item.
 </p>
 
-## :rocket: Routers
-
 ## 🏁 running the application with docker
 
 ```
@@ -42,6 +40,8 @@ YARN start
 ```
 app running by default on port 5000 🚀🚀🚀🚀🚀
 ```
+
+## :rocket: Router listing lenovo brand products
 
 ```yml
 GET /products
